@@ -77,10 +77,4 @@ Offline support and data synchronization
 👩‍💻 Developer
 
 Kashish Patel
-
-Diploma in Computer Programming | Flutter & React Development
-
-GitHub: KashishPatel-Codes
-Portfolio: View Portfolio
-
 Built as a personal project to practice Flutter development, state management, repository architecture, and Firebase integration.
